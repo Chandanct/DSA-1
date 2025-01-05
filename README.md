@@ -1,7 +1,9 @@
 # DSA-1
 
 DSA: Arrays 1: One Dimensional
+
 DSA: Arrays 2: Two Dimensional
+
 DSA: Arrays 3: Interview Problems
 DSA: Bit Manipulation 1
 DSA: Bit Manipulation 2
